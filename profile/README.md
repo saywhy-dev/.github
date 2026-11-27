@@ -26,8 +26,8 @@ We build **local-first developer tools, knowledge hubs, and agent-native workben
 
 | Project | What It Does | Stack | License |
 | :--- | :--- | :--- | :---: |
-| [**Inkade**](https://github.com/saywhy-dev/inkade) | Local-first personal knowledge hub with a node-stable outliner, clean Markdown reader, SQL-level scoped `/mcp`, and dual-origin interactive artifacts | `TypeScript` · `Bun` · `SQLite FTS5` · `Yjs` | `MIT` |
-| [**Warren**](https://github.com/saywhy-dev/warren) | Agent-first isolated browser workbench pairing per-environment Chromium storage, dedicated proxy egress, dual Person/Agent spaces, and native CLI | `TypeScript` · `Electron` · `React` · `CDP` | `MIT` |
+| [**Inkade**](https://github.com/saywhy-dev/inkade) | Local-first personal knowledge hub with a node-stable outliner, clean Markdown reader, SQL-level scoped `/mcp`, and dual-origin interactive artifacts | `TypeScript` `Bun` `SQLite FTS5` `Yjs` | `MIT` |
+| [**Warren**](https://github.com/saywhy-dev/warren) | Agent-first isolated browser workbench pairing per-environment Chromium storage, dedicated proxy egress, dual Person/Agent spaces, and native CLI | `TypeScript` `Electron` `React` `CDP` | `MIT` |
 
 ### Engineering Principles
 

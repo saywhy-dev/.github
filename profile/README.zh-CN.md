@@ -26,8 +26,8 @@
 
 | 项目 | 核心定位 | 技术栈 | 开源协议 |
 | :--- | :--- | :--- | :---: |
-| [**Inkade**](https://github.com/saywhy-dev/inkade) | 面向人类与 Coding Agent 的本地优先个人知识库，结合稳定大纲树、干净 Markdown、SQL 级硬隔离 `/mcp` 与双源交互沙盒 | `TypeScript` · `Bun` · `SQLite FTS5` · `Yjs` | `MIT` |
-| [**Warren**](https://github.com/saywhy-dev/warren) | 面向 AI Agent 的本地隔离浏览器工作台：按环境隔离存储、独立代理出口、Person / Agent 双空间与原生 CLI | `TypeScript` · `Electron` · `React` · `CDP` | `MIT` |
+| [**Inkade**](https://github.com/saywhy-dev/inkade) | 面向人类与 Coding Agent 的本地优先个人知识库，结合稳定大纲树、干净 Markdown、SQL 级硬隔离 `/mcp` 与双源交互沙盒 | `TypeScript` `Bun` `SQLite FTS5` `Yjs` | `MIT` |
+| [**Warren**](https://github.com/saywhy-dev/warren) | 面向 AI Agent 的本地隔离浏览器工作台：按环境隔离存储、独立代理出口、Person / Agent 双空间与原生 CLI | `TypeScript` `Electron` `React` `CDP` | `MIT` |
 
 ### 工程原则
 
